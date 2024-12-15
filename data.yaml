@@ -1,0 +1,6 @@
+
+train: /content/drive/My Drive/traffic_light_detection/yolo_dataset/images/train
+val: /content/drive/My Drive/traffic_light_detection/yolo_dataset/images/val
+
+nc: 4
+names: ['red', 'yellow', 'green', 'off']
