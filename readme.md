@@ -8,7 +8,7 @@ This project uses a **YOLOv5** trained on over 5500 image dataset and **SORT tra
 
 - **Goal**: Detect traffic light states and identify blinking behavior.
 - **Tools**: YOLOv5 (custom-trained), SORT tracker, OpenCV.
-- **Dataset**: [S2TLD Dataset](https://github.com/s2tld/s2tld-dataset) _(not included here)_.
+- **Dataset**: [S2TLD Dataset](https://github.com/Thinklab-SJTU/S2TLD) _(not included here)_.
 
 ---
 
@@ -16,8 +16,8 @@ This project uses a **YOLOv5** trained on over 5500 image dataset and **SORT tra
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/traffic_light_detection.git
-   cd traffic_light_detection
+   git clone https://github.com/chunkydonut21/traffic-light-detection-with-blinking
+   cd traffic-light-detection-with-blinking
    ```
 2. **Place the dataset in traffic_light_dataset/traffic_light_dataset folder**
 3. **Run the project**
